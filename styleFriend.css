@@ -1,0 +1,35 @@
+body{
+    background-color: #31467F;
+}
+
+#wrapper{
+    background-color: #628DFF;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+}
+
+h1 {
+   text-align: center;
+    background-color: #4F71CC;
+}
+
+h2 {
+    
+}
+
+dl{
+    padding: 5px;
+}
+dt {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+dd{
+    margin-bottom: 15px;
+}
+
+footer{
+    text-align: center;
+    background-color: #57627F;
+}
